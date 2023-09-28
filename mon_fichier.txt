@@ -2,3 +2,5 @@ ls
 ligne2
 conflit
 merge
+ligne4
+
